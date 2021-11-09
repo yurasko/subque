@@ -1,0 +1,68 @@
+{
+  "data": {
+    "councillors": {
+      "nodes": [
+        {
+          "id": "12hAtDZJGt4of3m2GqZcUCVAjZPALfvPwvtUTFZPQUbdX1Ud",
+          "numberOfVotes": 1,
+          "voteHistory": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "approvedVote": true
+              }
+            ]
+          }
+        },
+        {
+          "id": "1363HWTPzDrzAQ6ChFiMU6mP4b6jmQid2ae55JQcKtZnpLGv",
+          "numberOfVotes": 1,
+          "voteHistory": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "approvedVote": true
+              }
+            ]
+          }
+        },
+        {
+          "id": "14ShUZUYUR35RBZW6uVVt1zXDxmSQddkeDdXf1JkMA6P721N",
+          "numberOfVotes": 1,
+          "voteHistory": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "approvedVote": true
+              }
+            ]
+          }
+        },
+        {
+          "id": "15aKvwRqGVAwuBMaogtQXhuz9EQqUWsZJSAzomyb5xYwgBXA",
+          "numberOfVotes": 1,
+          "voteHistory": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "approvedVote": true
+              }
+            ]
+          }
+        },
+        {
+          "id": "16UJBPHVqQ3xYXnmhEpaQtvSRnrP9k1XeE7WxoyCxsrL9AvV",
+          "numberOfVotes": 1,
+          "voteHistory": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "approvedVote": true
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
